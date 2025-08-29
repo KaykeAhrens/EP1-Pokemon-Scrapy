@@ -5,7 +5,7 @@ import re
 class PokemonListSpider(scrapy.Spider):
     name = 'pokemon_list'
     allowed_domains = ['pokemondb.net']
-    start_urls = ['https://pokemondb.net/pokedex/all']
+    start_urls = ['https://pokemondb.net/pokedex/all'] 
     
     def parse(self, response):
         # extrai todos os pokémons da tabela
@@ -227,29 +227,49 @@ class PokemonListSpider(scrapy.Spider):
         return eevee_evolutions
     
     def extract_type_effectiveness(self, response, pokemon_item):
-        # extrai efetividade dos tipos
         effectiveness = {}
-        
-        # procura tabela de type defenses
-        type_chart = response.css('table.type-table.type-table-pokedex')
-        
-        if type_chart:
-            # headers dos tipos
-            type_headers = type_chart.css('thead th::text').getall()[1:]  # skip primeiro header
-            
-            # valores de efetividade
-            effectiveness_values = type_chart.css('tbody td::text').getall()
-            
-            for i, tipo in enumerate(type_headers):
-                if i < len(effectiveness_values):
-                    value = effectiveness_values[i].strip()
-                    try:
-                        effectiveness[tipo.strip()] = float(value.replace('×', ''))
-                    except:
-                        effectiveness[tipo.strip()] = 1.0
-        
-        pokemon_item['efetividade_tipos'] = effectiveness
-    
+
+        type_tables = response.css('table.type-table-pokedex')
+
+        for table in type_tables:
+            headers = table.css('tr th a::attr(title)').getall()
+            values = table.css('tr + tr td')
+
+            for i, header in enumerate(headers):
+                if i < len(values):
+                    cell = values[i]
+                    text_value = cell.css('::text').get(default="").strip()
+                    class_value = cell.attrib.get("class", "")
+
+                    # Converter diretamente
+                    if text_value == "2":
+                        numeric_value = 2.0
+                    elif text_value in ["½", "1/2"]:
+                        numeric_value = 0.5
+                    elif text_value in ["¼", "1/4"]:
+                        numeric_value = 0.25
+                    elif text_value == "0":
+                        numeric_value = 0.0
+                    elif text_value == "":
+                        if "type-fx-200" in class_value:
+                            numeric_value = 2.0
+                        elif "type-fx-50" in class_value:
+                            numeric_value = 0.5
+                        elif "type-fx-25" in class_value:
+                            numeric_value = 0.25
+                        elif "type-fx-0" in class_value:
+                            numeric_value = 0.0
+                        else:
+                            numeric_value = 1.0
+                    else:
+                        numeric_value = 1.0
+
+                    effectiveness[header] = numeric_value
+
+        # Salva todos os tipos, sem filtrar
+        pokemon_item["efetividade_tipos"] = effectiveness
+
+
     def extract_pokemon_number_from_url(self, url):
         # extrai o número do pokémon da URL
         # URLs são como: /pokedex/bulbasaur ou /pokedex/001

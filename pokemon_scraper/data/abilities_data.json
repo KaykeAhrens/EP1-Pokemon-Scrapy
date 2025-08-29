@@ -1,343 +1,8 @@
 [
   {
-    "url": "https://pokemondb.net/ability/lingering-aroma",
-    "nome": "Lingering Aroma",
-    "descricao": "Contact changes the attacker's Ability to Lingering Aroma."
-  },
-  {
-    "url": "https://pokemondb.net/ability/disguise",
-    "nome": "Disguise",
-    "descricao": "allows the bearer to avoid damage for one attack, in a similar way to"
-  },
-  {
-    "url": "https://pokemondb.net/ability/emergency-exit",
-    "nome": "Emergency Exit",
-    "descricao": "Switches out when HP falls below 50%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/unburden",
-    "nome": "Unburden",
-    "descricao": "Raises Speed if a held item is used."
-  },
-  {
-    "url": "https://pokemondb.net/ability/normalize",
-    "nome": "Normalize",
-    "descricao": "causes all moves used by the Pokémon to become"
-  },
-  {
-    "url": "https://pokemondb.net/ability/grim-neigh",
-    "nome": "Grim Neigh",
-    "descricao": "Boosts Special Attack after knocking out a Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/color-change",
-    "nome": "Color Change",
-    "descricao": "changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by"
-  },
-  {
-    "url": "https://pokemondb.net/ability/magma-armor",
-    "nome": "Magma Armor",
-    "descricao": "prevents the Pokémon from becoming frozen, for example from moves like"
-  },
-  {
-    "url": "https://pokemondb.net/ability/ice-body",
-    "nome": "Ice Body",
-    "descricao": "A Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/surge-surfer",
-    "nome": "Surge Surfer",
-    "descricao": "doubles the bearer's Speed when"
-  },
-  {
-    "url": "https://pokemondb.net/ability/own-tempo",
-    "nome": "Own Tempo",
-    "descricao": "Prevents the Pokémon from becoming confused."
-  },
-  {
-    "url": "https://pokemondb.net/ability/grassy-surge",
-    "nome": "Grassy Surge",
-    "descricao": "creates a low-lying grassy field, like the move"
-  },
-  {
-    "url": "https://pokemondb.net/ability/stench",
-    "nome": "Stench",
-    "descricao": "A Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/iron-barbs",
-    "nome": "Iron Barbs",
-    "descricao": "When a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/hydration",
-    "nome": "Hydration",
-    "descricao": "A Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/aura-break",
-    "nome": "Aura Break",
-    "descricao": "cancels the effects of the abilities"
-  },
-  {
-    "url": "https://pokemondb.net/ability/teravolt",
-    "nome": "Teravolt",
-    "descricao": "prevents a target's ability from affecting moves that the"
-  },
-  {
-    "url": "https://pokemondb.net/ability/solid-rock",
-    "nome": "Solid Rock",
-    "descricao": "reduces the damage taken from super-effective attacks by 25%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/run-away",
-    "nome": "Run Away",
-    "descricao": "allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like"
-  },
-  {
-    "url": "https://pokemondb.net/ability/slush-rush",
-    "nome": "Slush Rush",
-    "descricao": "Boosts the Pokémon's Speed stat in a hailstorm."
-  },
-  {
-    "url": "https://pokemondb.net/ability/swift-swim",
-    "nome": "Swift Swim",
-    "descricao": "doubles the ability-bearer's Speed during"
-  },
-  {
-    "url": "https://pokemondb.net/ability/symbiosis",
-    "nome": "Symbiosis",
-    "descricao": "The Pokémon can pass an item to an ally."
-  },
-  {
-    "url": "https://pokemondb.net/ability/multiscale",
-    "nome": "Multiscale",
-    "descricao": "Reduces damage when HP is full."
-  },
-  {
-    "url": "https://pokemondb.net/ability/aerilate",
-    "nome": "Aerilate",
-    "descricao": "causes all"
-  },
-  {
-    "url": "https://pokemondb.net/ability/heavy-metal",
-    "nome": "Heavy Metal",
-    "descricao": "doubles the Pokémon's weight in battle. Increasing weight affects these moves:"
-  },
-  {
-    "url": "https://pokemondb.net/ability/flare-boost",
-    "nome": "Flare Boost",
-    "descricao": "Powers up special attacks when burned."
-  },
-  {
-    "url": "https://pokemondb.net/ability/vessel-of-ruin",
-    "nome": "Vessel of Ruin",
-    "descricao": "Lowers Special Attack of all Pokémon except itself."
-  },
-  {
-    "url": "https://pokemondb.net/ability/steadfast",
-    "nome": "Steadfast",
-    "descricao": "Raises Speed each time the Pokémon flinches."
-  },
-  {
-    "url": "https://pokemondb.net/ability/soul-heart",
-    "nome": "Soul-Heart",
-    "descricao": "raises the bearer's Special Attack one stage when any Pokémon on the field faints."
-  },
-  {
-    "url": "https://pokemondb.net/ability/merciless",
-    "nome": "Merciless",
-    "descricao": "The Pokémon's attacks become critical hits if the target is poisoned."
-  },
-  {
-    "url": "https://pokemondb.net/ability/huge-power",
-    "nome": "Huge Power",
-    "descricao": "Raises the Pokémon's Attack stat."
-  },
-  {
     "url": "https://pokemondb.net/ability/sand-veil",
     "nome": "Sand Veil",
     "descricao": "raises the ability-bearer's evasion by 20% in a"
-  },
-  {
-    "url": "https://pokemondb.net/ability/wandering-spirit",
-    "nome": "Wandering Spirit",
-    "descricao": "Swaps abilities with opponents on contact."
-  },
-  {
-    "url": "https://pokemondb.net/ability/gale-wings",
-    "nome": "Gale Wings",
-    "descricao": "Gives priority to Flying-type moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/lightning-rod",
-    "nome": "Lightning Rod",
-    "descricao": "forces all single-target"
-  },
-  {
-    "url": "https://pokemondb.net/ability/water-bubble",
-    "nome": "Water Bubble",
-    "descricao": "reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned."
-  },
-  {
-    "url": "https://pokemondb.net/ability/serene-grace",
-    "nome": "Serene Grace",
-    "descricao": "doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items"
-  },
-  {
-    "url": "https://pokemondb.net/ability/compound-eyes",
-    "nome": "Compound Eyes",
-    "descricao": "raises the ability-bearer's accuracy by 30%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/protosynthesis",
-    "nome": "Protosynthesis",
-    "descricao": "Raises highest stat in harsh sunlight, or if holding Booster Energy."
-  },
-  {
-    "url": "https://pokemondb.net/ability/corrosion",
-    "nome": "Corrosion",
-    "descricao": "allows the bearer to poison any Pokémon, including Steel and Poison types."
-  },
-  {
-    "url": "https://pokemondb.net/ability/cotton-down",
-    "nome": "Cotton Down",
-    "descricao": "When a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/sand-spit",
-    "nome": "Sand Spit",
-    "descricao": "Creates a sandstorm when hit by an attack."
-  },
-  {
-    "url": "https://pokemondb.net/ability/full-metal-body",
-    "nome": "Full Metal Body",
-    "descricao": "Prevents other Pokémon from lowering its stats."
-  },
-  {
-    "url": "https://pokemondb.net/ability/innards-out",
-    "nome": "Innards Out",
-    "descricao": "When a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/immunity",
-    "nome": "Immunity",
-    "descricao": "Prevents the Pokémon from getting poisoned."
-  },
-  {
-    "url": "https://pokemondb.net/ability/volt-absorb",
-    "nome": "Volt Absorb",
-    "descricao": "A Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/download",
-    "nome": "Download",
-    "descricao": "raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses."
-  },
-  {
-    "url": "https://pokemondb.net/ability/earth-eater",
-    "nome": "Earth Eater",
-    "descricao": "Restores HP when hit by a Ground-type move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/battle-armor",
-    "nome": "Battle Armor",
-    "descricao": "prevents the Pokémon from receiving a critical hit."
-  },
-  {
-    "url": "https://pokemondb.net/ability/punk-rock",
-    "nome": "Punk Rock",
-    "descricao": "Boosts sound-based moves and halves damage from the same moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/ball-fetch",
-    "nome": "Ball Fetch",
-    "descricao": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/mirror-armor",
-    "nome": "Mirror Armor",
-    "descricao": "Reflects any stat-lowering effects."
-  },
-  {
-    "url": "https://pokemondb.net/ability/beast-boost",
-    "nome": "Beast Boost",
-    "descricao": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/chilling-neigh",
-    "nome": "Chilling Neigh",
-    "descricao": "Boosts Attack after knocking out a Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/poison-touch",
-    "nome": "Poison Touch",
-    "descricao": "May poison targets when a Pokémon makes contact."
-  },
-  {
-    "url": "https://pokemondb.net/ability/effect-spore",
-    "nome": "Effect Spore",
-    "descricao": "Contact may poison or cause paralysis or sleep."
-  },
-  {
-    "url": "https://pokemondb.net/ability/hadron-engine",
-    "nome": "Hadron Engine",
-    "descricao": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active."
-  },
-  {
-    "url": "https://pokemondb.net/ability/seed-sower",
-    "nome": "Seed Sower",
-    "descricao": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
-  },
-  {
-    "url": "https://pokemondb.net/ability/early-bird",
-    "nome": "Early Bird",
-    "descricao": "The Pokémon awakens quickly from sleep."
-  },
-  {
-    "url": "https://pokemondb.net/ability/dark-aura",
-    "nome": "Dark Aura",
-    "descricao": "raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/filter",
-    "nome": "Filter",
-    "descricao": "reduces the damage taken from super-effective attacks by 25%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/cloud-nine",
-    "nome": "Cloud Nine",
-    "descricao": "suppresses"
-  },
-  {
-    "url": "https://pokemondb.net/ability/magician",
-    "nome": "Magician",
-    "descricao": "The Pokémon steals the held item of a Pokémon it hits with a move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/tera-shift",
-    "nome": "Tera Shift",
-    "descricao": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
-  },
-  {
-    "url": "https://pokemondb.net/ability/zero-to-hero",
-    "nome": "Zero to Hero",
-    "descricao": "Transforms into its Hero Form when switching out."
-  },
-  {
-    "url": "https://pokemondb.net/ability/natural-cure",
-    "nome": "Natural Cure",
-    "descricao": "All status problems heal when it switches out."
-  },
-  {
-    "url": "https://pokemondb.net/ability/fluffy",
-    "nome": "Fluffy",
-    "descricao": "reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."
-  },
-  {
-    "url": "https://pokemondb.net/ability/magnet-pull",
-    "nome": "Magnet Pull",
-    "descricao": "prevents"
   },
   {
     "url": "https://pokemondb.net/ability/rain-dish",
@@ -345,104 +10,19 @@
     "descricao": "A Pokémon with"
   },
   {
-    "url": "https://pokemondb.net/ability/moody",
-    "nome": "Moody",
-    "descricao": "Raises one stat and lowers another."
+    "url": "https://pokemondb.net/ability/levitate",
+    "nome": "Levitate",
+    "descricao": "causes the Pokémon to be"
   },
   {
-    "url": "https://pokemondb.net/ability/orichalcum-pulse",
-    "nome": "Orichalcum Pulse",
-    "descricao": "Turns the sunlight harsh when entering battle, and boosts Attack while active."
+    "url": "https://pokemondb.net/ability/adaptability",
+    "nome": "Adaptability",
+    "descricao": "increases the effectiveness of"
   },
   {
-    "url": "https://pokemondb.net/ability/anticipation",
-    "nome": "Anticipation",
-    "descricao": "A Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/desolate-land",
-    "nome": "Desolate Land",
-    "descricao": "creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/white-smoke",
-    "nome": "White Smoke",
-    "descricao": "Prevents other Pokémon from lowering its stats."
-  },
-  {
-    "url": "https://pokemondb.net/ability/plus",
-    "nome": "Plus",
-    "descricao": "Ups Sp. Atk if another Pokémon has Plus or Minus."
-  },
-  {
-    "url": "https://pokemondb.net/ability/battery",
-    "nome": "Battery",
-    "descricao": "allows the Pokémon to raise the power of teammates' special moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/shield-dust",
-    "nome": "Shield Dust",
-    "descricao": "Blocks the added effects of attacks taken."
-  },
-  {
-    "url": "https://pokemondb.net/ability/hyper-cutter",
-    "nome": "Hyper Cutter",
-    "descricao": "prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as"
-  },
-  {
-    "url": "https://pokemondb.net/ability/berserk",
-    "nome": "Berserk",
-    "descricao": "raises the Pokémon's Special Attack by one stage when its HP falls below 50%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/quick-feet",
-    "nome": "Quick Feet",
-    "descricao": "raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed."
-  },
-  {
-    "url": "https://pokemondb.net/ability/damp",
-    "nome": "Damp",
-    "descricao": "prevents all Pokémon on the field from using the moves"
-  },
-  {
-    "url": "https://pokemondb.net/ability/aftermath",
-    "nome": "Aftermath",
-    "descricao": "If an attacker faints a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/aroma-veil",
-    "nome": "Aroma Veil",
-    "descricao": "Protects allies from attacks that limit their move choices."
-  },
-  {
-    "url": "https://pokemondb.net/ability/sheer-force",
-    "nome": "Sheer Force",
-    "descricao": "increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects."
-  },
-  {
-    "url": "https://pokemondb.net/ability/trace",
-    "nome": "Trace",
-    "descricao": "The Pokémon copies a foe's Ability."
-  },
-  {
-    "url": "https://pokemondb.net/ability/dancer",
-    "nome": "Dancer",
-    "descricao": "When another Pokémon on the field uses any"
-  },
-  {
-    "url": "https://pokemondb.net/ability/oblivious",
-    "nome": "Oblivious",
-    "descricao": "makes the Pokémon immune to gender-based moves and abilities, specifically"
-  },
-  {
-    "url": "https://pokemondb.net/ability/teraform-zero",
-    "nome": "Teraform Zero",
-    "descricao": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
-  },
-  {
-    "url": "https://pokemondb.net/ability/dazzling",
-    "nome": "Dazzling",
-    "descricao": "makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0)."
+    "url": "https://pokemondb.net/ability/stalwart",
+    "nome": "Stalwart",
+    "descricao": "Ignores moves and abilities that draw in moves."
   },
   {
     "url": "https://pokemondb.net/ability/heatproof",
@@ -450,9 +30,19 @@
     "descricao": "reduces the damage taken from"
   },
   {
-    "url": "https://pokemondb.net/ability/big-pecks",
-    "nome": "Big Pecks",
-    "descricao": "prevents the ability-bearer's Defense stat from being lowered, for example via"
+    "url": "https://pokemondb.net/ability/pure-power",
+    "nome": "Pure Power",
+    "descricao": "Raises the Pokémon's Attack stat."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sharpness",
+    "nome": "Sharpness",
+    "descricao": "increases the power of all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/plus",
+    "nome": "Plus",
+    "descricao": "Ups Sp. Atk if another Pokémon has Plus or Minus."
   },
   {
     "url": "https://pokemondb.net/ability/imposter",
@@ -460,99 +50,34 @@
     "descricao": "It transforms itself into the Pokémon it is facing."
   },
   {
-    "url": "https://pokemondb.net/ability/receiver",
-    "nome": "Receiver",
-    "descricao": "A Pokémon with"
+    "url": "https://pokemondb.net/ability/wonder-skin",
+    "nome": "Wonder Skin",
+    "descricao": "halves the accuracy of all status moves targeted at the ability-bearer."
   },
   {
-    "url": "https://pokemondb.net/ability/toxic-chain",
-    "nome": "Toxic Chain",
-    "descricao": "may cause bad poisoning when the Pokémon hits an opponent with a move."
+    "url": "https://pokemondb.net/ability/refrigerate",
+    "nome": "Refrigerate",
+    "descricao": "causes all"
   },
   {
-    "url": "https://pokemondb.net/ability/good-as-gold",
-    "nome": "Good as Gold",
-    "descricao": "Gives immunity to status moves."
+    "url": "https://pokemondb.net/ability/electromorphosis",
+    "nome": "Electromorphosis",
+    "descricao": "If a Pokémon with"
   },
   {
-    "url": "https://pokemondb.net/ability/speed-boost",
-    "nome": "Speed Boost",
-    "descricao": "Its Speed stat is gradually boosted."
+    "url": "https://pokemondb.net/ability/reckless",
+    "nome": "Reckless",
+    "descricao": "increases the power of"
   },
   {
-    "url": "https://pokemondb.net/ability/libero",
-    "nome": "Libero",
-    "descricao": "changes the Pokémon's type to that of its previously used attack."
+    "url": "https://pokemondb.net/ability/poison-touch",
+    "nome": "Poison Touch",
+    "descricao": "May poison targets when a Pokémon makes contact."
   },
   {
-    "url": "https://pokemondb.net/ability/fairy-aura",
-    "nome": "Fairy Aura",
-    "descricao": "raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/strong-jaw",
-    "nome": "Strong Jaw",
-    "descricao": "increases the power of all"
-  },
-  {
-    "url": "https://pokemondb.net/ability/flower-gift",
-    "nome": "Flower Gift",
-    "descricao": "raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight."
-  },
-  {
-    "url": "https://pokemondb.net/ability/justified",
-    "nome": "Justified",
-    "descricao": "raises the ability-bearer's Attack by one stage when hit by a damaging"
-  },
-  {
-    "url": "https://pokemondb.net/ability/cud-chew",
-    "nome": "Cud Chew",
-    "descricao": "causes the Pokémon to reuse an already consumed Berry at the end of the next turn."
-  },
-  {
-    "url": "https://pokemondb.net/ability/tablets-of-ruin",
-    "nome": "Tablets of Ruin",
-    "descricao": "Lowers Attack of all Pokémon except itself."
-  },
-  {
-    "url": "https://pokemondb.net/ability/unaware",
-    "nome": "Unaware",
-    "descricao": "Ignores any stat changes in the Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/grass-pelt",
-    "nome": "Grass Pelt",
-    "descricao": "Boosts the Defense stat in Grassy Terrain."
-  },
-  {
-    "url": "https://pokemondb.net/ability/gooey",
-    "nome": "Gooey",
-    "descricao": "Contact with the Pokémon lowers the attacker's Speed stat."
-  },
-  {
-    "url": "https://pokemondb.net/ability/iron-fist",
-    "nome": "Iron Fist",
-    "descricao": "increases the power of all"
-  },
-  {
-    "url": "https://pokemondb.net/ability/analytic",
-    "nome": "Analytic",
-    "descricao": "Boosts move power when the Pokémon moves last."
-  },
-  {
-    "url": "https://pokemondb.net/ability/motor-drive",
-    "nome": "Motor Drive",
-    "descricao": "Raises Speed if hit by an Electric-type move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/sword-of-ruin",
-    "nome": "Sword of Ruin",
-    "descricao": "Lowers Defense of all Pokémon except itself."
-  },
-  {
-    "url": "https://pokemondb.net/ability/tough-claws",
-    "nome": "Tough Claws",
-    "descricao": "increases the power of moves that make contact."
+    "url": "https://pokemondb.net/ability/battle-bond",
+    "nome": "Battle Bond",
+    "descricao": "causes Greninja to transform into Ash-Greninja when it KOs an opponent."
   },
   {
     "url": "https://pokemondb.net/ability/zen-mode",
@@ -560,94 +85,19 @@
     "descricao": "changes the ability-bearer's form to"
   },
   {
-    "url": "https://pokemondb.net/ability/super-luck",
-    "nome": "Super Luck",
-    "descricao": "raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a"
+    "url": "https://pokemondb.net/ability/turboblaze",
+    "nome": "Turboblaze",
+    "descricao": "prevents a target's ability from affecting moves that the"
   },
   {
-    "url": "https://pokemondb.net/ability/regenerator",
-    "nome": "Regenerator",
-    "descricao": "A Pokémon with"
+    "url": "https://pokemondb.net/ability/telepathy",
+    "nome": "Telepathy",
+    "descricao": "Pokémon with the"
   },
   {
-    "url": "https://pokemondb.net/ability/neuroforce",
-    "nome": "Neuroforce",
-    "descricao": "Powers up moves that are super effective."
-  },
-  {
-    "url": "https://pokemondb.net/ability/anger-shell",
-    "nome": "Anger Shell",
-    "descricao": "When the Pokémon's HP drops below half,"
-  },
-  {
-    "url": "https://pokemondb.net/ability/minds-eye",
-    "nome": "Mind's Eye",
-    "descricao": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/minus",
-    "nome": "Minus",
-    "descricao": "Ups Sp. Atk if another Pokémon has Plus or Minus."
-  },
-  {
-    "url": "https://pokemondb.net/ability/power-construct",
-    "nome": "Power Construct",
-    "descricao": "is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme."
-  },
-  {
-    "url": "https://pokemondb.net/ability/poison-point",
-    "nome": "Poison Point",
-    "descricao": "Contact with the Pokémon may poison the attacker."
-  },
-  {
-    "url": "https://pokemondb.net/ability/simple",
-    "nome": "Simple",
-    "descricao": "The"
-  },
-  {
-    "url": "https://pokemondb.net/ability/air-lock",
-    "nome": "Air Lock",
-    "descricao": "suppresses"
-  },
-  {
-    "url": "https://pokemondb.net/ability/defiant",
-    "nome": "Defiant",
-    "descricao": "raises the ability-bearer's Attack by two stages when hit by a stat-lowering move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/sniper",
-    "nome": "Sniper",
-    "descricao": "increases the power of critical hits by 1.5×. This means a critical hit will deal"
-  },
-  {
-    "url": "https://pokemondb.net/ability/pressure",
-    "nome": "Pressure",
-    "descricao": "makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1."
-  },
-  {
-    "url": "https://pokemondb.net/ability/illusion",
-    "nome": "Illusion",
-    "descricao": "When a Pokémon with the"
-  },
-  {
-    "url": "https://pokemondb.net/ability/delta-stream",
-    "nome": "Delta Stream",
-    "descricao": "creates strong winds when the ability is activated (by Rayquaza Mega-Evolving)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/sweet-veil",
-    "nome": "Sweet Veil",
-    "descricao": "prevents this Pokémon and its allies from falling asleep, for example from moves like"
-  },
-  {
-    "url": "https://pokemondb.net/ability/gorilla-tactics",
-    "nome": "Gorilla Tactics",
-    "descricao": "Boosts the Pokémon's Attack stat but only allows the use of the first selected move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/ice-face",
-    "nome": "Ice Face",
-    "descricao": "is the signature ability of"
+    "url": "https://pokemondb.net/ability/klutz",
+    "nome": "Klutz",
+    "descricao": "The Pokémon can't use any held items."
   },
   {
     "url": "https://pokemondb.net/ability/thick-fat",
@@ -655,174 +105,79 @@
     "descricao": "reduces the damage taken from"
   },
   {
-    "url": "https://pokemondb.net/ability/poison-heal",
-    "nome": "Poison Heal",
-    "descricao": "Restores HP if the Pokémon is poisoned."
+    "url": "https://pokemondb.net/ability/grim-neigh",
+    "nome": "Grim Neigh",
+    "descricao": "Boosts Special Attack after knocking out a Pokémon."
   },
   {
-    "url": "https://pokemondb.net/ability/water-absorb",
-    "nome": "Water Absorb",
-    "descricao": "A Pokémon with"
+    "url": "https://pokemondb.net/ability/ball-fetch",
+    "nome": "Ball Fetch",
+    "descricao": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
   },
   {
-    "url": "https://pokemondb.net/ability/insomnia",
-    "nome": "Insomnia",
-    "descricao": "prevents the ability-bearer from falling asleep, both from moves by other Pokémon like"
+    "url": "https://pokemondb.net/ability/justified",
+    "nome": "Justified",
+    "descricao": "raises the ability-bearer's Attack by one stage when hit by a damaging"
   },
   {
-    "url": "https://pokemondb.net/ability/rough-skin",
-    "nome": "Rough Skin",
+    "url": "https://pokemondb.net/ability/sword-of-ruin",
+    "nome": "Sword of Ruin",
+    "descricao": "Lowers Defense of all Pokémon except itself."
+  },
+  {
+    "url": "https://pokemondb.net/ability/natural-cure",
+    "nome": "Natural Cure",
+    "descricao": "All status problems heal when it switches out."
+  },
+  {
+    "url": "https://pokemondb.net/ability/teraform-zero",
+    "nome": "Teraform Zero",
+    "descricao": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
+  },
+  {
+    "url": "https://pokemondb.net/ability/poison-point",
+    "nome": "Poison Point",
+    "descricao": "Contact with the Pokémon may poison the attacker."
+  },
+  {
+    "url": "https://pokemondb.net/ability/iron-barbs",
+    "nome": "Iron Barbs",
     "descricao": "When a Pokémon with"
   },
   {
-    "url": "https://pokemondb.net/ability/cute-charm",
-    "nome": "Cute Charm",
-    "descricao": "If a Pokémon with"
+    "url": "https://pokemondb.net/ability/swarm",
+    "nome": "Swarm",
+    "descricao": "increases the power of"
   },
   {
-    "url": "https://pokemondb.net/ability/galvanize",
-    "nome": "Galvanize",
-    "descricao": "Normal-type moves become Electric-type moves and their power boosted."
+    "url": "https://pokemondb.net/ability/quick-feet",
+    "nome": "Quick Feet",
+    "descricao": "raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed."
   },
   {
-    "url": "https://pokemondb.net/ability/shell-armor",
-    "nome": "Shell Armor",
-    "descricao": "prevents the Pokémon from receiving a critical hit."
+    "url": "https://pokemondb.net/ability/stamina",
+    "nome": "Stamina",
+    "descricao": "raises the bearer's Defense by one stage when it is attacked by any move."
   },
   {
-    "url": "https://pokemondb.net/ability/bad-dreams",
-    "nome": "Bad Dreams",
-    "descricao": "causes all sleeping opponents to lose"
+    "url": "https://pokemondb.net/ability/magma-armor",
+    "nome": "Magma Armor",
+    "descricao": "prevents the Pokémon from becoming frozen, for example from moves like"
   },
   {
-    "url": "https://pokemondb.net/ability/clear-body",
-    "nome": "Clear Body",
-    "descricao": "Prevents other Pokémon from lowering its stats."
+    "url": "https://pokemondb.net/ability/rivalry",
+    "nome": "Rivalry",
+    "descricao": "Deals more damage to a Pokémon of same gender."
   },
   {
-    "url": "https://pokemondb.net/ability/wimp-out",
-    "nome": "Wimp Out",
-    "descricao": "causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%."
+    "url": "https://pokemondb.net/ability/dragons-maw",
+    "nome": "Dragon's Maw",
+    "descricao": "increases the power of Dragon-type moves used by this Pokémon by 50%."
   },
   {
-    "url": "https://pokemondb.net/ability/flame-body",
-    "nome": "Flame Body",
-    "descricao": "If a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/embody-aspect",
-    "nome": "Embody Aspect",
-    "descricao": "boosts a particular stat, depending on the form of a Terastallized"
-  },
-  {
-    "url": "https://pokemondb.net/ability/leaf-guard",
-    "nome": "Leaf Guard",
-    "descricao": "prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather."
-  },
-  {
-    "url": "https://pokemondb.net/ability/steam-engine",
-    "nome": "Steam Engine",
-    "descricao": "raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage."
-  },
-  {
-    "url": "https://pokemondb.net/ability/intrepid-sword",
-    "nome": "Intrepid Sword",
-    "descricao": "Boosts Attack in battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/ice-scales",
-    "nome": "Ice Scales",
-    "descricao": "Halves damage from Special moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/neutralizing-gas",
-    "nome": "Neutralizing Gas",
-    "descricao": "Neutralizes abilities of all Pokémon in battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/tera-shell",
-    "nome": "Tera Shell",
-    "descricao": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective."
-  },
-  {
-    "url": "https://pokemondb.net/ability/vital-spirit",
-    "nome": "Vital Spirit",
-    "descricao": "prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move"
-  },
-  {
-    "url": "https://pokemondb.net/ability/static",
-    "nome": "Static",
-    "descricao": "If a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/stall",
-    "nome": "Stall",
-    "descricao": "The Pokémon moves after all other Pokémon do."
-  },
-  {
-    "url": "https://pokemondb.net/ability/moxie",
-    "nome": "Moxie",
-    "descricao": "increases the user's Attack one stage upon fainting an opponent."
-  },
-  {
-    "url": "https://pokemondb.net/ability/power-spot",
-    "nome": "Power Spot",
-    "descricao": "Just being next to the Pokémon powers up moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/schooling",
-    "nome": "Schooling",
-    "descricao": "changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form."
-  },
-  {
-    "url": "https://pokemondb.net/ability/poison-puppeteer",
-    "nome": "Poison Puppeteer",
-    "descricao": "Pokémon poisoned by Pecharunt’s moves will also become confused."
-  },
-  {
-    "url": "https://pokemondb.net/ability/victory-star",
-    "nome": "Victory Star",
-    "descricao": "Boosts the accuracy of its allies and itself."
-  },
-  {
-    "url": "https://pokemondb.net/ability/forecast",
-    "nome": "Forecast",
-    "descricao": "Castform transforms with the weather."
-  },
-  {
-    "url": "https://pokemondb.net/ability/inner-focus",
-    "nome": "Inner Focus",
-    "descricao": "prevents the Pokémon from flinching, for example when attacked by a move like"
-  },
-  {
-    "url": "https://pokemondb.net/ability/quark-drive",
-    "nome": "Quark Drive",
-    "descricao": "Raises highest stat on Electric Terrain, or if holding Booster Energy."
-  },
-  {
-    "url": "https://pokemondb.net/ability/mycelium-might",
-    "nome": "Mycelium Might",
-    "descricao": "Status moves go last, but are not affected by the opponent's ability."
-  },
-  {
-    "url": "https://pokemondb.net/ability/arena-trap",
-    "nome": "Arena Trap",
-    "descricao": "prevents opponents from fleeing or switching out."
-  },
-  {
-    "url": "https://pokemondb.net/ability/harvest",
-    "nome": "Harvest",
-    "descricao": "May create another Berry after one is used."
-  },
-  {
-    "url": "https://pokemondb.net/ability/electric-surge",
-    "nome": "Electric Surge",
-    "descricao": "creates a low-lying electric field, like the move"
-  },
-  {
-    "url": "https://pokemondb.net/ability/curious-medicine",
-    "nome": "Curious Medicine",
-    "descricao": "Resets all stat changes upon entering battlefield."
+    "url": "https://pokemondb.net/ability/vessel-of-ruin",
+    "nome": "Vessel of Ruin",
+    "descricao": "Lowers Special Attack of all Pokémon except itself."
   },
   {
     "url": "https://pokemondb.net/ability/pickup",
@@ -830,19 +185,44 @@
     "descricao": "When another Pokémon on the field uses a single-use held item, a Pokémon with"
   },
   {
-    "url": "https://pokemondb.net/ability/water-compaction",
-    "nome": "Water Compaction",
-    "descricao": "raises the bearer's Defense by 2 stages when it is hit by a Water-type move."
+    "url": "https://pokemondb.net/ability/grass-pelt",
+    "nome": "Grass Pelt",
+    "descricao": "Boosts the Defense stat in Grassy Terrain."
   },
   {
-    "url": "https://pokemondb.net/ability/unnerve",
-    "nome": "Unnerve",
-    "descricao": "Makes the foe nervous and unable to eat Berries."
+    "url": "https://pokemondb.net/ability/well-baked-body",
+    "nome": "Well-Baked Body",
+    "descricao": "Immune to Fire-type moves, and Defense is sharply boosted."
   },
   {
-    "url": "https://pokemondb.net/ability/fur-coat",
-    "nome": "Fur Coat",
-    "descricao": "reduces damage taken from physical attacks by 50%."
+    "url": "https://pokemondb.net/ability/solid-rock",
+    "nome": "Solid Rock",
+    "descricao": "reduces the damage taken from super-effective attacks by 25%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/aerilate",
+    "nome": "Aerilate",
+    "descricao": "causes all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/guts",
+    "nome": "Guts",
+    "descricao": "raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack."
+  },
+  {
+    "url": "https://pokemondb.net/ability/schooling",
+    "nome": "Schooling",
+    "descricao": "changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form."
+  },
+  {
+    "url": "https://pokemondb.net/ability/psychic-surge",
+    "nome": "Psychic Surge",
+    "descricao": "creates a low-lying psychic field, like the move"
+  },
+  {
+    "url": "https://pokemondb.net/ability/libero",
+    "nome": "Libero",
+    "descricao": "changes the Pokémon's type to that of its previously used attack."
   },
   {
     "url": "https://pokemondb.net/ability/liquid-ooze",
@@ -855,189 +235,9 @@
     "descricao": "When a Pokémon with"
   },
   {
-    "url": "https://pokemondb.net/ability/stakeout",
-    "nome": "Stakeout",
-    "descricao": "enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/protean",
-    "nome": "Protean",
-    "descricao": "changes the Pokémon's type to that of its previously used attack."
-  },
-  {
     "url": "https://pokemondb.net/ability/purifying-salt",
     "nome": "Purifying Salt",
     "descricao": "Protects from status conditions and halves damage from Ghost-type moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/wonder-guard",
-    "nome": "Wonder Guard",
-    "descricao": "prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only"
-  },
-  {
-    "url": "https://pokemondb.net/ability/no-guard",
-    "nome": "No Guard",
-    "descricao": "ensures that all attacks used by, and targeted at, the ability-bearer hit without fail."
-  },
-  {
-    "url": "https://pokemondb.net/ability/misty-surge",
-    "nome": "Misty Surge",
-    "descricao": "creates a low-lying mist, like the move"
-  },
-  {
-    "url": "https://pokemondb.net/ability/guard-dog",
-    "nome": "Guard Dog",
-    "descricao": "Boosts Attack if intimidated, and prevents being forced to switch out."
-  },
-  {
-    "url": "https://pokemondb.net/ability/transistor",
-    "nome": "Transistor",
-    "descricao": "increases the power of Electric-type moves used by this Pokémon by 50%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/dry-skin",
-    "nome": "Dry Skin",
-    "descricao": "causes several effects:"
-  },
-  {
-    "url": "https://pokemondb.net/ability/shields-down",
-    "nome": "Shields Down",
-    "descricao": "causes the Pokémon to changes its appearance and stats depending on its remaining HP."
-  },
-  {
-    "url": "https://pokemondb.net/ability/light-metal",
-    "nome": "Light Metal",
-    "descricao": "halves the Pokémon's weight in battle. Decreasing weight affects these moves:"
-  },
-  {
-    "url": "https://pokemondb.net/ability/pure-power",
-    "nome": "Pure Power",
-    "descricao": "Raises the Pokémon's Attack stat."
-  },
-  {
-    "url": "https://pokemondb.net/ability/dragons-maw",
-    "nome": "Dragon's Maw",
-    "descricao": "increases the power of Dragon-type moves used by this Pokémon by 50%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/shadow-shield",
-    "nome": "Shadow Shield",
-    "descricao": "Reduces damage when HP is full."
-  },
-  {
-    "url": "https://pokemondb.net/ability/flash-fire",
-    "nome": "Flash Fire",
-    "descricao": "When a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/well-baked-body",
-    "nome": "Well-Baked Body",
-    "descricao": "Immune to Fire-type moves, and Defense is sharply boosted."
-  },
-  {
-    "url": "https://pokemondb.net/ability/suction-cups",
-    "nome": "Suction Cups",
-    "descricao": "prevents opponents forcing the ability-bearer to switch out or flee via the moves"
-  },
-  {
-    "url": "https://pokemondb.net/ability/magic-guard",
-    "nome": "Magic Guard",
-    "descricao": "protects the Pokémon from indirect damage, including:"
-  },
-  {
-    "url": "https://pokemondb.net/ability/tinted-lens",
-    "nome": "Tinted Lens",
-    "descricao": "Powers up “not very effective” moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/opportunist",
-    "nome": "Opportunist",
-    "descricao": "Copies stat boosts by the opponent."
-  },
-  {
-    "url": "https://pokemondb.net/ability/electromorphosis",
-    "nome": "Electromorphosis",
-    "descricao": "If a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/slow-start",
-    "nome": "Slow Start",
-    "descricao": "Temporarily halves Attack and Speed."
-  },
-  {
-    "url": "https://pokemondb.net/ability/infiltrator",
-    "nome": "Infiltrator",
-    "descricao": "ignores the effects of"
-  },
-  {
-    "url": "https://pokemondb.net/ability/water-veil",
-    "nome": "Water Veil",
-    "descricao": "Prevents the Pokémon from getting a burn."
-  },
-  {
-    "url": "https://pokemondb.net/ability/telepathy",
-    "nome": "Telepathy",
-    "descricao": "Pokémon with the"
-  },
-  {
-    "url": "https://pokemondb.net/ability/swarm",
-    "nome": "Swarm",
-    "descricao": "increases the power of"
-  },
-  {
-    "url": "https://pokemondb.net/ability/rks-system",
-    "nome": "RKS System",
-    "descricao": "Changes type depending on held item."
-  },
-  {
-    "url": "https://pokemondb.net/ability/snow-warning",
-    "nome": "Snow Warning",
-    "descricao": "creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
-  },
-  {
-    "url": "https://pokemondb.net/ability/frisk",
-    "nome": "Frisk",
-    "descricao": "The Pokémon can check a foe's held item."
-  },
-  {
-    "url": "https://pokemondb.net/ability/synchronize",
-    "nome": "Synchronize",
-    "descricao": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/klutz",
-    "nome": "Klutz",
-    "descricao": "The Pokémon can't use any held items."
-  },
-  {
-    "url": "https://pokemondb.net/ability/rivalry",
-    "nome": "Rivalry",
-    "descricao": "Deals more damage to a Pokémon of same gender."
-  },
-  {
-    "url": "https://pokemondb.net/ability/honey-gather",
-    "nome": "Honey Gather",
-    "descricao": "has no effect in battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/magic-bounce",
-    "nome": "Magic Bounce",
-    "descricao": "Reflects status- changing moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/perish-body",
-    "nome": "Perish Body",
-    "descricao": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/propeller-tail",
-    "nome": "Propeller Tail",
-    "descricao": "Ignores moves and abilities that draw in moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/refrigerate",
-    "nome": "Refrigerate",
-    "descricao": "causes all"
   },
   {
     "url": "https://pokemondb.net/ability/overgrow",
@@ -1045,374 +245,24 @@
     "descricao": "increases the power of"
   },
   {
-    "url": "https://pokemondb.net/ability/stamina",
-    "nome": "Stamina",
-    "descricao": "raises the bearer's Defense by one stage when it is attacked by any move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/healer",
-    "nome": "Healer",
-    "descricao": "May heal an ally's status conditions."
-  },
-  {
-    "url": "https://pokemondb.net/ability/stance-change",
-    "nome": "Stance Change",
-    "descricao": "is exclusive to"
-  },
-  {
-    "url": "https://pokemondb.net/ability/stalwart",
-    "nome": "Stalwart",
-    "descricao": "Ignores moves and abilities that draw in moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/long-reach",
-    "nome": "Long Reach",
-    "descricao": "The Pokémon uses its moves without making contact with the target."
-  },
-  {
-    "url": "https://pokemondb.net/ability/truant",
-    "nome": "Truant",
-    "descricao": "causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is"
-  },
-  {
-    "url": "https://pokemondb.net/ability/shed-skin",
-    "nome": "Shed Skin",
-    "descricao": "The Pokémon may heal its own status problems."
-  },
-  {
-    "url": "https://pokemondb.net/ability/cheek-pouch",
-    "nome": "Cheek Pouch",
-    "descricao": "restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects."
-  },
-  {
-    "url": "https://pokemondb.net/ability/queenly-majesty",
-    "nome": "Queenly Majesty",
-    "descricao": "Prevents use of priority moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/storm-drain",
-    "nome": "Storm Drain",
-    "descricao": "forces all single-target"
-  },
-  {
-    "url": "https://pokemondb.net/ability/gluttony",
-    "nome": "Gluttony",
-    "descricao": "A Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/hunger-switch",
-    "nome": "Hunger Switch",
-    "descricao": "causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move,"
-  },
-  {
-    "url": "https://pokemondb.net/ability/sticky-hold",
-    "nome": "Sticky Hold",
-    "descricao": "prevents held items from being taken or switched."
-  },
-  {
-    "url": "https://pokemondb.net/ability/technician",
-    "nome": "Technician",
-    "descricao": "increases the power of moves - that are usually base power 60 or below - by 50%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/psychic-surge",
-    "nome": "Psychic Surge",
-    "descricao": "creates a low-lying psychic field, like the move"
-  },
-  {
-    "url": "https://pokemondb.net/ability/turboblaze",
-    "nome": "Turboblaze",
-    "descricao": "prevents a target's ability from affecting moves that the"
-  },
-  {
-    "url": "https://pokemondb.net/ability/comatose",
-    "nome": "Comatose",
-    "descricao": "causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/sand-force",
-    "nome": "Sand Force",
-    "descricao": "raises the power of"
-  },
-  {
-    "url": "https://pokemondb.net/ability/forewarn",
-    "nome": "Forewarn",
-    "descricao": "Determines what moves a foe has."
-  },
-  {
-    "url": "https://pokemondb.net/ability/contrary",
-    "nome": "Contrary",
-    "descricao": "Makes stat changes have an opposite effect."
-  },
-  {
-    "url": "https://pokemondb.net/ability/gulp-missile",
-    "nome": "Gulp Missile",
-    "descricao": "is the signature ability of"
-  },
-  {
-    "url": "https://pokemondb.net/ability/hustle",
-    "nome": "Hustle",
-    "descricao": "increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/flower-veil",
-    "nome": "Flower Veil",
-    "descricao": "prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles."
-  },
-  {
-    "url": "https://pokemondb.net/ability/adaptability",
-    "nome": "Adaptability",
-    "descricao": "increases the effectiveness of"
-  },
-  {
-    "url": "https://pokemondb.net/ability/cursed-body",
-    "nome": "Cursed Body",
-    "descricao": "May disable a move used on the Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/tangling-hair",
-    "nome": "Tangling Hair",
-    "descricao": "Contact with the Pokémon lowers the attacker's Speed stat."
-  },
-  {
-    "url": "https://pokemondb.net/ability/power-of-alchemy",
-    "nome": "Power of Alchemy",
-    "descricao": "The Pokémon copies the Ability of a defeated ally."
-  },
-  {
-    "url": "https://pokemondb.net/ability/drought",
-    "nome": "Drought",
-    "descricao": "creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
-  },
-  {
-    "url": "https://pokemondb.net/ability/rattled",
-    "nome": "Rattled",
+    "url": "https://pokemondb.net/ability/cotton-down",
+    "nome": "Cotton Down",
     "descricao": "When a Pokémon with"
   },
   {
-    "url": "https://pokemondb.net/ability/sharpness",
-    "nome": "Sharpness",
-    "descricao": "increases the power of all"
+    "url": "https://pokemondb.net/ability/full-metal-body",
+    "nome": "Full Metal Body",
+    "descricao": "Prevents other Pokémon from lowering its stats."
   },
   {
-    "url": "https://pokemondb.net/ability/reckless",
-    "nome": "Reckless",
-    "descricao": "increases the power of"
+    "url": "https://pokemondb.net/ability/cloud-nine",
+    "nome": "Cloud Nine",
+    "descricao": "suppresses"
   },
   {
-    "url": "https://pokemondb.net/ability/wind-power",
-    "nome": "Wind Power",
-    "descricao": "If a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/wonder-skin",
-    "nome": "Wonder Skin",
-    "descricao": "halves the accuracy of all status moves targeted at the ability-bearer."
-  },
-  {
-    "url": "https://pokemondb.net/ability/keen-eye",
-    "nome": "Keen Eye",
-    "descricao": "prevents the Pokémon from losing accuracy, for example from moves like"
-  },
-  {
-    "url": "https://pokemondb.net/ability/rock-head",
-    "nome": "Rock Head",
-    "descricao": "Protects the Pokémon from recoil damage."
-  },
-  {
-    "url": "https://pokemondb.net/ability/as-one",
-    "nome": "As One",
-    "descricao": "Combines Unnerve and Chilling Neigh/Grim Neigh"
-  },
-  {
-    "url": "https://pokemondb.net/ability/sand-stream",
-    "nome": "Sand Stream",
-    "descricao": "creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
-  },
-  {
-    "url": "https://pokemondb.net/ability/liquid-voice",
-    "nome": "Liquid Voice",
-    "descricao": "causes all"
-  },
-  {
-    "url": "https://pokemondb.net/ability/snow-cloak",
-    "nome": "Snow Cloak",
-    "descricao": "raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being"
-  },
-  {
-    "url": "https://pokemondb.net/ability/soundproof",
-    "nome": "Soundproof",
-    "descricao": "grants the Pokémon immunity to all"
-  },
-  {
-    "url": "https://pokemondb.net/ability/hospitality",
-    "nome": "Hospitality",
-    "descricao": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
-  },
-  {
-    "url": "https://pokemondb.net/ability/scrappy",
-    "nome": "Scrappy",
-    "descricao": "Enables moves to hit Ghost-type Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/unseen-fist",
-    "nome": "Unseen Fist",
-    "descricao": "Contact moves can strike through Protect/Detect."
-  },
-  {
-    "url": "https://pokemondb.net/ability/mold-breaker",
-    "nome": "Mold Breaker",
-    "descricao": "prevents a target's ability from affecting moves that the"
-  },
-  {
-    "url": "https://pokemondb.net/ability/wind-rider",
-    "nome": "Wind Rider",
-    "descricao": "gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one."
-  },
-  {
-    "url": "https://pokemondb.net/ability/prankster",
-    "nome": "Prankster",
-    "descricao": "increases the priority of status moves by +1."
-  },
-  {
-    "url": "https://pokemondb.net/ability/dauntless-shield",
-    "nome": "Dauntless Shield",
-    "descricao": "Boosts Defense in battle."
-  },
-  {
-    "url": "https://pokemondb.net/ability/intimidate",
-    "nome": "Intimidate",
-    "descricao": "lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/prism-armor",
-    "nome": "Prism Armor",
-    "descricao": "reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities"
-  },
-  {
-    "url": "https://pokemondb.net/ability/skill-link",
-    "nome": "Skill Link",
-    "descricao": "causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as"
-  },
-  {
-    "url": "https://pokemondb.net/ability/competitive",
-    "nome": "Competitive",
-    "descricao": "raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/drizzle",
-    "nome": "Drizzle",
-    "descricao": "creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
-  },
-  {
-    "url": "https://pokemondb.net/ability/friend-guard",
-    "nome": "Friend Guard",
-    "descricao": "Reduces damage done to allies."
-  },
-  {
-    "url": "https://pokemondb.net/ability/pickpocket",
-    "nome": "Pickpocket",
-    "descricao": "Steals an item when hit by another Pokémon."
-  },
-  {
-    "url": "https://pokemondb.net/ability/sap-sipper",
-    "nome": "Sap Sipper",
-    "descricao": "Boosts Attack when hit by a Grass-type move."
-  },
-  {
-    "url": "https://pokemondb.net/ability/screen-cleaner",
-    "nome": "Screen Cleaner",
-    "descricao": "Nullifies effects of Light Screen, Reflect, and Aurora Veil."
-  },
-  {
-    "url": "https://pokemondb.net/ability/triage",
-    "nome": "Triage",
-    "descricao": "increases the priority of HP-restoring moves to +3, when used by the ability-bearer."
-  },
-  {
-    "url": "https://pokemondb.net/ability/pixilate",
-    "nome": "Pixilate",
-    "descricao": "causes all"
-  },
-  {
-    "url": "https://pokemondb.net/ability/primordial-sea",
-    "nome": "Primordial Sea",
-    "descricao": "creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/marvel-scale",
-    "nome": "Marvel Scale",
-    "descricao": "raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep)."
-  },
-  {
-    "url": "https://pokemondb.net/ability/supreme-overlord",
-    "nome": "Supreme Overlord",
-    "descricao": "Attack and Special Attack are boosted for each party Pokémon that has been defeated."
-  },
-  {
-    "url": "https://pokemondb.net/ability/limber",
-    "nome": "Limber",
-    "descricao": "The Pokémon is protected from paralysis."
-  },
-  {
-    "url": "https://pokemondb.net/ability/parental-bond",
-    "nome": "Parental Bond",
-    "descricao": "allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks."
-  },
-  {
-    "url": "https://pokemondb.net/ability/chlorophyll",
-    "nome": "Chlorophyll",
-    "descricao": "doubles the ability-bearer's Speed during"
-  },
-  {
-    "url": "https://pokemondb.net/ability/bulletproof",
-    "nome": "Bulletproof",
-    "descricao": "makes the Pokémon immune to"
-  },
-  {
-    "url": "https://pokemondb.net/ability/toxic-boost",
-    "nome": "Toxic Boost",
-    "descricao": "Powers up physical attacks when poisoned."
-  },
-  {
-    "url": "https://pokemondb.net/ability/toxic-debris",
-    "nome": "Toxic Debris",
-    "descricao": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
-  },
-  {
-    "url": "https://pokemondb.net/ability/defeatist",
-    "nome": "Defeatist",
-    "descricao": "When the HP of a Pokémon with"
-  },
-  {
-    "url": "https://pokemondb.net/ability/multitype",
-    "nome": "Multitype",
-    "descricao": "changes the ability-bearer's type if it is holding one of the"
-  },
-  {
-    "url": "https://pokemondb.net/ability/overcoat",
-    "nome": "Overcoat",
-    "descricao": "makes the Pokémon immune to residual damage from weather conditions (specifically"
-  },
-  {
-    "url": "https://pokemondb.net/ability/steelworker",
-    "nome": "Steelworker",
-    "descricao": "increases the power of Steel-type moves used by this Pokémon by 50%."
-  },
-  {
-    "url": "https://pokemondb.net/ability/blaze",
-    "nome": "Blaze",
-    "descricao": "increases the power of"
-  },
-  {
-    "url": "https://pokemondb.net/ability/battle-bond",
-    "nome": "Battle Bond",
-    "descricao": "causes Greninja to transform into Ash-Greninja when it KOs an opponent."
-  },
-  {
-    "url": "https://pokemondb.net/ability/quick-draw",
-    "nome": "Quick Draw",
-    "descricao": ""
+    "url": "https://pokemondb.net/ability/guard-dog",
+    "nome": "Guard Dog",
+    "descricao": "Boosts Attack if intimidated, and prevents being forced to switch out."
   },
   {
     "url": "https://pokemondb.net/ability/rocky-payload",
@@ -1420,64 +270,129 @@
     "descricao": "increases the power of Rock-type moves used by this Pokémon by 50%."
   },
   {
-    "url": "https://pokemondb.net/ability/mummy",
-    "nome": "Mummy",
-    "descricao": "Contact with this Pokémon spreads this Ability."
+    "url": "https://pokemondb.net/ability/suction-cups",
+    "nome": "Suction Cups",
+    "descricao": "prevents opponents forcing the ability-bearer to switch out or flee via the moves"
   },
   {
-    "url": "https://pokemondb.net/ability/illuminate",
-    "nome": "Illuminate",
+    "url": "https://pokemondb.net/ability/truant",
+    "nome": "Truant",
+    "descricao": "causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is"
+  },
+  {
+    "url": "https://pokemondb.net/ability/damp",
+    "nome": "Damp",
+    "descricao": "prevents all Pokémon on the field from using the moves"
+  },
+  {
+    "url": "https://pokemondb.net/ability/leaf-guard",
+    "nome": "Leaf Guard",
+    "descricao": "prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather."
+  },
+  {
+    "url": "https://pokemondb.net/ability/infiltrator",
+    "nome": "Infiltrator",
+    "descricao": "ignores the effects of"
+  },
+  {
+    "url": "https://pokemondb.net/ability/honey-gather",
+    "nome": "Honey Gather",
     "descricao": "has no effect in battle."
   },
   {
-    "url": "https://pokemondb.net/ability/torrent",
-    "nome": "Torrent",
-    "descricao": "increases the power of"
+    "url": "https://pokemondb.net/ability/vital-spirit",
+    "nome": "Vital Spirit",
+    "descricao": "prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move"
   },
   {
-    "url": "https://pokemondb.net/ability/shadow-tag",
-    "nome": "Shadow Tag",
-    "descricao": "Prevents the foe from escaping."
+    "url": "https://pokemondb.net/ability/mold-breaker",
+    "nome": "Mold Breaker",
+    "descricao": "prevents a target's ability from affecting moves that the"
   },
   {
-    "url": "https://pokemondb.net/ability/mega-launcher",
-    "nome": "Mega Launcher",
-    "descricao": "increases the power of all"
+    "url": "https://pokemondb.net/ability/disguise",
+    "nome": "Disguise",
+    "descricao": "allows the bearer to avoid damage for one attack, in a similar way to"
   },
   {
-    "url": "https://pokemondb.net/ability/beads-of-ruin",
-    "nome": "Beads of Ruin",
-    "descricao": "Lowers Special Defense of all Pokémon except itself."
+    "url": "https://pokemondb.net/ability/minus",
+    "nome": "Minus",
+    "descricao": "Ups Sp. Atk if another Pokémon has Plus or Minus."
   },
   {
-    "url": "https://pokemondb.net/ability/thermal-exchange",
-    "nome": "Thermal Exchange",
-    "descricao": "Raises Attack when hit by a Fire-type move. Cannot be burned."
+    "url": "https://pokemondb.net/ability/normalize",
+    "nome": "Normalize",
+    "descricao": "causes all moves used by the Pokémon to become"
   },
   {
-    "url": "https://pokemondb.net/ability/ripen",
-    "nome": "Ripen",
-    "descricao": "Doubles the effect of berries."
+    "url": "https://pokemondb.net/ability/galvanize",
+    "nome": "Galvanize",
+    "descricao": "Normal-type moves become Electric-type moves and their power boosted."
   },
   {
-    "url": "https://pokemondb.net/ability/levitate",
-    "nome": "Levitate",
-    "descricao": "causes the Pokémon to be"
+    "url": "https://pokemondb.net/ability/arena-trap",
+    "nome": "Arena Trap",
+    "descricao": "prevents opponents from fleeing or switching out."
   },
   {
-    "url": "https://pokemondb.net/ability/commander",
-    "nome": "Commander",
-    "descricao": "Goes inside the mouth of an ally Dondozo if one is on the field."
+    "url": "https://pokemondb.net/ability/pressure",
+    "nome": "Pressure",
+    "descricao": "makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1."
   },
   {
-    "url": "https://pokemondb.net/ability/steely-spirit",
-    "nome": "Steely Spirit",
-    "descricao": "Powers up ally Pokémon's Steel-type moves."
+    "url": "https://pokemondb.net/ability/drizzle",
+    "nome": "Drizzle",
+    "descricao": "creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
   },
   {
-    "url": "https://pokemondb.net/ability/guts",
-    "nome": "Guts",
-    "descricao": "raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack."
+    "url": "https://pokemondb.net/ability/moxie",
+    "nome": "Moxie",
+    "descricao": "increases the user's Attack one stage upon fainting an opponent."
+  },
+  {
+    "url": "https://pokemondb.net/ability/filter",
+    "nome": "Filter",
+    "descricao": "reduces the damage taken from super-effective attacks by 25%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/shields-down",
+    "nome": "Shields Down",
+    "descricao": "causes the Pokémon to changes its appearance and stats depending on its remaining HP."
+  },
+  {
+    "url": "https://pokemondb.net/ability/limber",
+    "nome": "Limber",
+    "descricao": "The Pokémon is protected from paralysis."
+  },
+  {
+    "url": "https://pokemondb.net/ability/wimp-out",
+    "nome": "Wimp Out",
+    "descricao": "causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/liquid-voice",
+    "nome": "Liquid Voice",
+    "descricao": "causes all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/hadron-engine",
+    "nome": "Hadron Engine",
+    "descricao": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active."
+  },
+  {
+    "url": "https://pokemondb.net/ability/wind-power",
+    "nome": "Wind Power",
+    "descricao": "If a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/steelworker",
+    "nome": "Steelworker",
+    "descricao": "increases the power of Steel-type moves used by this Pokémon by 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/parental-bond",
+    "nome": "Parental Bond",
+    "descricao": "allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks."
   },
   {
     "url": "https://pokemondb.net/ability/solar-power",
@@ -1485,19 +400,444 @@
     "descricao": "During harsh sunlight,"
   },
   {
+    "url": "https://pokemondb.net/ability/cheek-pouch",
+    "nome": "Cheek Pouch",
+    "descricao": "restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects."
+  },
+  {
+    "url": "https://pokemondb.net/ability/surge-surfer",
+    "nome": "Surge Surfer",
+    "descricao": "doubles the bearer's Speed when"
+  },
+  {
+    "url": "https://pokemondb.net/ability/torrent",
+    "nome": "Torrent",
+    "descricao": "increases the power of"
+  },
+  {
+    "url": "https://pokemondb.net/ability/gluttony",
+    "nome": "Gluttony",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/magic-bounce",
+    "nome": "Magic Bounce",
+    "descricao": "Reflects status- changing moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/hunger-switch",
+    "nome": "Hunger Switch",
+    "descricao": "causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move,"
+  },
+  {
+    "url": "https://pokemondb.net/ability/pixilate",
+    "nome": "Pixilate",
+    "descricao": "causes all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/seed-sower",
+    "nome": "Seed Sower",
+    "descricao": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
+  },
+  {
+    "url": "https://pokemondb.net/ability/gulp-missile",
+    "nome": "Gulp Missile",
+    "descricao": "is the signature ability of"
+  },
+  {
+    "url": "https://pokemondb.net/ability/earth-eater",
+    "nome": "Earth Eater",
+    "descricao": "Restores HP when hit by a Ground-type move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/no-guard",
+    "nome": "No Guard",
+    "descricao": "ensures that all attacks used by, and targeted at, the ability-bearer hit without fail."
+  },
+  {
+    "url": "https://pokemondb.net/ability/intimidate",
+    "nome": "Intimidate",
+    "descricao": "lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/synchronize",
+    "nome": "Synchronize",
+    "descricao": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/lingering-aroma",
+    "nome": "Lingering Aroma",
+    "descricao": "Contact changes the attacker's Ability to Lingering Aroma."
+  },
+  {
+    "url": "https://pokemondb.net/ability/battery",
+    "nome": "Battery",
+    "descricao": "allows the Pokémon to raise the power of teammates' special moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/download",
+    "nome": "Download",
+    "descricao": "raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sticky-hold",
+    "nome": "Sticky Hold",
+    "descricao": "prevents held items from being taken or switched."
+  },
+  {
+    "url": "https://pokemondb.net/ability/own-tempo",
+    "nome": "Own Tempo",
+    "descricao": "Prevents the Pokémon from becoming confused."
+  },
+  {
+    "url": "https://pokemondb.net/ability/perish-body",
+    "nome": "Perish Body",
+    "descricao": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
+  },
+  {
+    "url": "https://pokemondb.net/ability/healer",
+    "nome": "Healer",
+    "descricao": "May heal an ally's status conditions."
+  },
+  {
+    "url": "https://pokemondb.net/ability/rock-head",
+    "nome": "Rock Head",
+    "descricao": "Protects the Pokémon from recoil damage."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sand-force",
+    "nome": "Sand Force",
+    "descricao": "raises the power of"
+  },
+  {
+    "url": "https://pokemondb.net/ability/tough-claws",
+    "nome": "Tough Claws",
+    "descricao": "increases the power of moves that make contact."
+  },
+  {
+    "url": "https://pokemondb.net/ability/protean",
+    "nome": "Protean",
+    "descricao": "changes the Pokémon's type to that of its previously used attack."
+  },
+  {
+    "url": "https://pokemondb.net/ability/power-construct",
+    "nome": "Power Construct",
+    "descricao": "is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme."
+  },
+  {
+    "url": "https://pokemondb.net/ability/flash-fire",
+    "nome": "Flash Fire",
+    "descricao": "When a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/wind-rider",
+    "nome": "Wind Rider",
+    "descricao": "gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one."
+  },
+  {
     "url": "https://pokemondb.net/ability/costar",
     "nome": "Costar",
     "descricao": "Copies ally's stat changes on entering battle."
   },
   {
-    "url": "https://pokemondb.net/ability/sturdy",
-    "nome": "Sturdy",
-    "descricao": "allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves ("
+    "url": "https://pokemondb.net/ability/dry-skin",
+    "nome": "Dry Skin",
+    "descricao": "causes several effects:"
   },
   {
-    "url": "https://pokemondb.net/ability/mimicry",
-    "nome": "Mimicry",
-    "descricao": "Changes type depending on the terrain."
+    "url": "https://pokemondb.net/ability/air-lock",
+    "nome": "Air Lock",
+    "descricao": "suppresses"
+  },
+  {
+    "url": "https://pokemondb.net/ability/motor-drive",
+    "nome": "Motor Drive",
+    "descricao": "Raises Speed if hit by an Electric-type move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/swift-swim",
+    "nome": "Swift Swim",
+    "descricao": "doubles the ability-bearer's Speed during"
+  },
+  {
+    "url": "https://pokemondb.net/ability/emergency-exit",
+    "nome": "Emergency Exit",
+    "descricao": "Switches out when HP falls below 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/bulletproof",
+    "nome": "Bulletproof",
+    "descricao": "makes the Pokémon immune to"
+  },
+  {
+    "url": "https://pokemondb.net/ability/illuminate",
+    "nome": "Illuminate",
+    "descricao": "has no effect in battle."
+  },
+  {
+    "url": "https://pokemondb.net/ability/long-reach",
+    "nome": "Long Reach",
+    "descricao": "The Pokémon uses its moves without making contact with the target."
+  },
+  {
+    "url": "https://pokemondb.net/ability/analytic",
+    "nome": "Analytic",
+    "descricao": "Boosts move power when the Pokémon moves last."
+  },
+  {
+    "url": "https://pokemondb.net/ability/shadow-tag",
+    "nome": "Shadow Tag",
+    "descricao": "Prevents the foe from escaping."
+  },
+  {
+    "url": "https://pokemondb.net/ability/volt-absorb",
+    "nome": "Volt Absorb",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/keen-eye",
+    "nome": "Keen Eye",
+    "descricao": "prevents the Pokémon from losing accuracy, for example from moves like"
+  },
+  {
+    "url": "https://pokemondb.net/ability/cute-charm",
+    "nome": "Cute Charm",
+    "descricao": "If a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/prankster",
+    "nome": "Prankster",
+    "descricao": "increases the priority of status moves by +1."
+  },
+  {
+    "url": "https://pokemondb.net/ability/shell-armor",
+    "nome": "Shell Armor",
+    "descricao": "prevents the Pokémon from receiving a critical hit."
+  },
+  {
+    "url": "https://pokemondb.net/ability/speed-boost",
+    "nome": "Speed Boost",
+    "descricao": "Its Speed stat is gradually boosted."
+  },
+  {
+    "url": "https://pokemondb.net/ability/overcoat",
+    "nome": "Overcoat",
+    "descricao": "makes the Pokémon immune to residual damage from weather conditions (specifically"
+  },
+  {
+    "url": "https://pokemondb.net/ability/propeller-tail",
+    "nome": "Propeller Tail",
+    "descricao": "Ignores moves and abilities that draw in moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/transistor",
+    "nome": "Transistor",
+    "descricao": "increases the power of Electric-type moves used by this Pokémon by 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/tablets-of-ruin",
+    "nome": "Tablets of Ruin",
+    "descricao": "Lowers Attack of all Pokémon except itself."
+  },
+  {
+    "url": "https://pokemondb.net/ability/triage",
+    "nome": "Triage",
+    "descricao": "increases the priority of HP-restoring moves to +3, when used by the ability-bearer."
+  },
+  {
+    "url": "https://pokemondb.net/ability/toxic-boost",
+    "nome": "Toxic Boost",
+    "descricao": "Powers up physical attacks when poisoned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/iron-fist",
+    "nome": "Iron Fist",
+    "descricao": "increases the power of all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/sand-spit",
+    "nome": "Sand Spit",
+    "descricao": "Creates a sandstorm when hit by an attack."
+  },
+  {
+    "url": "https://pokemondb.net/ability/lightning-rod",
+    "nome": "Lightning Rod",
+    "descricao": "forces all single-target"
+  },
+  {
+    "url": "https://pokemondb.net/ability/skill-link",
+    "nome": "Skill Link",
+    "descricao": "causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as"
+  },
+  {
+    "url": "https://pokemondb.net/ability/slush-rush",
+    "nome": "Slush Rush",
+    "descricao": "Boosts the Pokémon's Speed stat in a hailstorm."
+  },
+  {
+    "url": "https://pokemondb.net/ability/screen-cleaner",
+    "nome": "Screen Cleaner",
+    "descricao": "Nullifies effects of Light Screen, Reflect, and Aurora Veil."
+  },
+  {
+    "url": "https://pokemondb.net/ability/shadow-shield",
+    "nome": "Shadow Shield",
+    "descricao": "Reduces damage when HP is full."
+  },
+  {
+    "url": "https://pokemondb.net/ability/stance-change",
+    "nome": "Stance Change",
+    "descricao": "is exclusive to"
+  },
+  {
+    "url": "https://pokemondb.net/ability/ripen",
+    "nome": "Ripen",
+    "descricao": "Doubles the effect of berries."
+  },
+  {
+    "url": "https://pokemondb.net/ability/mycelium-might",
+    "nome": "Mycelium Might",
+    "descricao": "Status moves go last, but are not affected by the opponent's ability."
+  },
+  {
+    "url": "https://pokemondb.net/ability/fluffy",
+    "nome": "Fluffy",
+    "descricao": "reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."
+  },
+  {
+    "url": "https://pokemondb.net/ability/strong-jaw",
+    "nome": "Strong Jaw",
+    "descricao": "increases the power of all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/blaze",
+    "nome": "Blaze",
+    "descricao": "increases the power of"
+  },
+  {
+    "url": "https://pokemondb.net/ability/water-absorb",
+    "nome": "Water Absorb",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/ice-face",
+    "nome": "Ice Face",
+    "descricao": "is the signature ability of"
+  },
+  {
+    "url": "https://pokemondb.net/ability/rks-system",
+    "nome": "RKS System",
+    "descricao": "Changes type depending on held item."
+  },
+  {
+    "url": "https://pokemondb.net/ability/contrary",
+    "nome": "Contrary",
+    "descricao": "Makes stat changes have an opposite effect."
+  },
+  {
+    "url": "https://pokemondb.net/ability/marvel-scale",
+    "nome": "Marvel Scale",
+    "descricao": "raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/forecast",
+    "nome": "Forecast",
+    "descricao": "Castform transforms with the weather."
+  },
+  {
+    "url": "https://pokemondb.net/ability/steadfast",
+    "nome": "Steadfast",
+    "descricao": "Raises Speed each time the Pokémon flinches."
+  },
+  {
+    "url": "https://pokemondb.net/ability/protosynthesis",
+    "nome": "Protosynthesis",
+    "descricao": "Raises highest stat in harsh sunlight, or if holding Booster Energy."
+  },
+  {
+    "url": "https://pokemondb.net/ability/fur-coat",
+    "nome": "Fur Coat",
+    "descricao": "reduces damage taken from physical attacks by 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/supreme-overlord",
+    "nome": "Supreme Overlord",
+    "descricao": "Attack and Special Attack are boosted for each party Pokémon that has been defeated."
+  },
+  {
+    "url": "https://pokemondb.net/ability/misty-surge",
+    "nome": "Misty Surge",
+    "descricao": "creates a low-lying mist, like the move"
+  },
+  {
+    "url": "https://pokemondb.net/ability/gale-wings",
+    "nome": "Gale Wings",
+    "descricao": "Gives priority to Flying-type moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/super-luck",
+    "nome": "Super Luck",
+    "descricao": "raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a"
+  },
+  {
+    "url": "https://pokemondb.net/ability/ice-scales",
+    "nome": "Ice Scales",
+    "descricao": "Halves damage from Special moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/magnet-pull",
+    "nome": "Magnet Pull",
+    "descricao": "prevents"
+  },
+  {
+    "url": "https://pokemondb.net/ability/innards-out",
+    "nome": "Innards Out",
+    "descricao": "When a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/mega-launcher",
+    "nome": "Mega Launcher",
+    "descricao": "increases the power of all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/storm-drain",
+    "nome": "Storm Drain",
+    "descricao": "forces all single-target"
+  },
+  {
+    "url": "https://pokemondb.net/ability/unaware",
+    "nome": "Unaware",
+    "descricao": "Ignores any stat changes in the Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/slow-start",
+    "nome": "Slow Start",
+    "descricao": "Temporarily halves Attack and Speed."
+  },
+  {
+    "url": "https://pokemondb.net/ability/receiver",
+    "nome": "Receiver",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/flame-body",
+    "nome": "Flame Body",
+    "descricao": "If a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/punk-rock",
+    "nome": "Punk Rock",
+    "descricao": "Boosts sound-based moves and halves damage from the same moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/prism-armor",
+    "nome": "Prism Armor",
+    "descricao": "reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities"
+  },
+  {
+    "url": "https://pokemondb.net/ability/aroma-veil",
+    "nome": "Aroma Veil",
+    "descricao": "Protects allies from attacks that limit their move choices."
   },
   {
     "url": "https://pokemondb.net/ability/tangled-feet",
@@ -1505,14 +845,29 @@
     "descricao": "Raises evasion if the Pokémon is confused."
   },
   {
-    "url": "https://pokemondb.net/ability/anger-point",
-    "nome": "Anger Point",
-    "descricao": "raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit."
+    "url": "https://pokemondb.net/ability/oblivious",
+    "nome": "Oblivious",
+    "descricao": "makes the Pokémon immune to gender-based moves and abilities, specifically"
   },
   {
-    "url": "https://pokemondb.net/ability/supersweet-syrup",
-    "nome": "Supersweet Syrup",
-    "descricao": "A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon."
+    "url": "https://pokemondb.net/ability/stakeout",
+    "nome": "Stakeout",
+    "descricao": "enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle."
+  },
+  {
+    "url": "https://pokemondb.net/ability/flower-veil",
+    "nome": "Flower Veil",
+    "descricao": "prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles."
+  },
+  {
+    "url": "https://pokemondb.net/ability/immunity",
+    "nome": "Immunity",
+    "descricao": "Prevents the Pokémon from getting poisoned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/chlorophyll",
+    "nome": "Chlorophyll",
+    "descricao": "doubles the ability-bearer's Speed during"
   },
   {
     "url": "https://pokemondb.net/ability/armor-tail",
@@ -1520,13 +875,658 @@
     "descricao": "prevents the opponent from using any moves that have priority, such as"
   },
   {
-    "url": "https://pokemondb.net/ability/sand-rush",
-    "nome": "Sand Rush",
-    "descricao": "doubles the ability-bearer's Speed during a"
+    "url": "https://pokemondb.net/ability/anger-shell",
+    "nome": "Anger Shell",
+    "descricao": "When the Pokémon's HP drops below half,"
+  },
+  {
+    "url": "https://pokemondb.net/ability/trace",
+    "nome": "Trace",
+    "descricao": "The Pokémon copies a foe's Ability."
+  },
+  {
+    "url": "https://pokemondb.net/ability/beads-of-ruin",
+    "nome": "Beads of Ruin",
+    "descricao": "Lowers Special Defense of all Pokémon except itself."
+  },
+  {
+    "url": "https://pokemondb.net/ability/snow-cloak",
+    "nome": "Snow Cloak",
+    "descricao": "raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being"
+  },
+  {
+    "url": "https://pokemondb.net/ability/shield-dust",
+    "nome": "Shield Dust",
+    "descricao": "Blocks the added effects of attacks taken."
+  },
+  {
+    "url": "https://pokemondb.net/ability/soundproof",
+    "nome": "Soundproof",
+    "descricao": "grants the Pokémon immunity to all"
+  },
+  {
+    "url": "https://pokemondb.net/ability/tera-shift",
+    "nome": "Tera Shift",
+    "descricao": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
+  },
+  {
+    "url": "https://pokemondb.net/ability/corrosion",
+    "nome": "Corrosion",
+    "descricao": "allows the bearer to poison any Pokémon, including Steel and Poison types."
+  },
+  {
+    "url": "https://pokemondb.net/ability/hustle",
+    "nome": "Hustle",
+    "descricao": "increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/unnerve",
+    "nome": "Unnerve",
+    "descricao": "Makes the foe nervous and unable to eat Berries."
+  },
+  {
+    "url": "https://pokemondb.net/ability/heavy-metal",
+    "nome": "Heavy Metal",
+    "descricao": "doubles the Pokémon's weight in battle. Increasing weight affects these moves:"
+  },
+  {
+    "url": "https://pokemondb.net/ability/big-pecks",
+    "nome": "Big Pecks",
+    "descricao": "prevents the ability-bearer's Defense stat from being lowered, for example via"
+  },
+  {
+    "url": "https://pokemondb.net/ability/run-away",
+    "nome": "Run Away",
+    "descricao": "allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like"
   },
   {
     "url": "https://pokemondb.net/ability/pastel-veil",
     "nome": "Pastel Veil",
     "descricao": "prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield."
+  },
+  {
+    "url": "https://pokemondb.net/ability/teravolt",
+    "nome": "Teravolt",
+    "descricao": "prevents a target's ability from affecting moves that the"
+  },
+  {
+    "url": "https://pokemondb.net/ability/static",
+    "nome": "Static",
+    "descricao": "If a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/wandering-spirit",
+    "nome": "Wandering Spirit",
+    "descricao": "Swaps abilities with opponents on contact."
+  },
+  {
+    "url": "https://pokemondb.net/ability/scrappy",
+    "nome": "Scrappy",
+    "descricao": "Enables moves to hit Ghost-type Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/intrepid-sword",
+    "nome": "Intrepid Sword",
+    "descricao": "Boosts Attack in battle."
+  },
+  {
+    "url": "https://pokemondb.net/ability/grassy-surge",
+    "nome": "Grassy Surge",
+    "descricao": "creates a low-lying grassy field, like the move"
+  },
+  {
+    "url": "https://pokemondb.net/ability/wonder-guard",
+    "nome": "Wonder Guard",
+    "descricao": "prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only"
+  },
+  {
+    "url": "https://pokemondb.net/ability/electric-surge",
+    "nome": "Electric Surge",
+    "descricao": "creates a low-lying electric field, like the move"
+  },
+  {
+    "url": "https://pokemondb.net/ability/victory-star",
+    "nome": "Victory Star",
+    "descricao": "Boosts the accuracy of its allies and itself."
+  },
+  {
+    "url": "https://pokemondb.net/ability/tangling-hair",
+    "nome": "Tangling Hair",
+    "descricao": "Contact with the Pokémon lowers the attacker's Speed stat."
+  },
+  {
+    "url": "https://pokemondb.net/ability/flower-gift",
+    "nome": "Flower Gift",
+    "descricao": "raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight."
+  },
+  {
+    "url": "https://pokemondb.net/ability/competitive",
+    "nome": "Competitive",
+    "descricao": "raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/multiscale",
+    "nome": "Multiscale",
+    "descricao": "Reduces damage when HP is full."
+  },
+  {
+    "url": "https://pokemondb.net/ability/battle-armor",
+    "nome": "Battle Armor",
+    "descricao": "prevents the Pokémon from receiving a critical hit."
+  },
+  {
+    "url": "https://pokemondb.net/ability/color-change",
+    "nome": "Color Change",
+    "descricao": "changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by"
+  },
+  {
+    "url": "https://pokemondb.net/ability/dauntless-shield",
+    "nome": "Dauntless Shield",
+    "descricao": "Boosts Defense in battle."
+  },
+  {
+    "url": "https://pokemondb.net/ability/merciless",
+    "nome": "Merciless",
+    "descricao": "The Pokémon's attacks become critical hits if the target is poisoned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/dazzling",
+    "nome": "Dazzling",
+    "descricao": "makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/hospitality",
+    "nome": "Hospitality",
+    "descricao": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
+  },
+  {
+    "url": "https://pokemondb.net/ability/anticipation",
+    "nome": "Anticipation",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/desolate-land",
+    "nome": "Desolate Land",
+    "descricao": "creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/gooey",
+    "nome": "Gooey",
+    "descricao": "Contact with the Pokémon lowers the attacker's Speed stat."
+  },
+  {
+    "url": "https://pokemondb.net/ability/water-compaction",
+    "nome": "Water Compaction",
+    "descricao": "raises the bearer's Defense by 2 stages when it is hit by a Water-type move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/hyper-cutter",
+    "nome": "Hyper Cutter",
+    "descricao": "prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as"
+  },
+  {
+    "url": "https://pokemondb.net/ability/steely-spirit",
+    "nome": "Steely Spirit",
+    "descricao": "Powers up ally Pokémon's Steel-type moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/power-of-alchemy",
+    "nome": "Power of Alchemy",
+    "descricao": "The Pokémon copies the Ability of a defeated ally."
+  },
+  {
+    "url": "https://pokemondb.net/ability/aura-break",
+    "nome": "Aura Break",
+    "descricao": "cancels the effects of the abilities"
+  },
+  {
+    "url": "https://pokemondb.net/ability/compound-eyes",
+    "nome": "Compound Eyes",
+    "descricao": "raises the ability-bearer's accuracy by 30%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/clear-body",
+    "nome": "Clear Body",
+    "descricao": "Prevents other Pokémon from lowering its stats."
+  },
+  {
+    "url": "https://pokemondb.net/ability/regenerator",
+    "nome": "Regenerator",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/mirror-armor",
+    "nome": "Mirror Armor",
+    "descricao": "Reflects any stat-lowering effects."
+  },
+  {
+    "url": "https://pokemondb.net/ability/dark-aura",
+    "nome": "Dark Aura",
+    "descricao": "raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/simple",
+    "nome": "Simple",
+    "descricao": "The"
+  },
+  {
+    "url": "https://pokemondb.net/ability/unseen-fist",
+    "nome": "Unseen Fist",
+    "descricao": "Contact moves can strike through Protect/Detect."
+  },
+  {
+    "url": "https://pokemondb.net/ability/defiant",
+    "nome": "Defiant",
+    "descricao": "raises the ability-bearer's Attack by two stages when hit by a stat-lowering move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/forewarn",
+    "nome": "Forewarn",
+    "descricao": "Determines what moves a foe has."
+  },
+  {
+    "url": "https://pokemondb.net/ability/flare-boost",
+    "nome": "Flare Boost",
+    "descricao": "Powers up special attacks when burned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/inner-focus",
+    "nome": "Inner Focus",
+    "descricao": "prevents the Pokémon from flinching, for example when attacked by a move like"
+  },
+  {
+    "url": "https://pokemondb.net/ability/orichalcum-pulse",
+    "nome": "Orichalcum Pulse",
+    "descricao": "Turns the sunlight harsh when entering battle, and boosts Attack while active."
+  },
+  {
+    "url": "https://pokemondb.net/ability/quark-drive",
+    "nome": "Quark Drive",
+    "descricao": "Raises highest stat on Electric Terrain, or if holding Booster Energy."
+  },
+  {
+    "url": "https://pokemondb.net/ability/cursed-body",
+    "nome": "Cursed Body",
+    "descricao": "May disable a move used on the Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sand-rush",
+    "nome": "Sand Rush",
+    "descricao": "doubles the ability-bearer's Speed during a"
+  },
+  {
+    "url": "https://pokemondb.net/ability/pickpocket",
+    "nome": "Pickpocket",
+    "descricao": "Steals an item when hit by another Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/symbiosis",
+    "nome": "Symbiosis",
+    "descricao": "The Pokémon can pass an item to an ally."
+  },
+  {
+    "url": "https://pokemondb.net/ability/mimicry",
+    "nome": "Mimicry",
+    "descricao": "Changes type depending on the terrain."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sand-stream",
+    "nome": "Sand Stream",
+    "descricao": "creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
+  },
+  {
+    "url": "https://pokemondb.net/ability/poison-heal",
+    "nome": "Poison Heal",
+    "descricao": "Restores HP if the Pokémon is poisoned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/technician",
+    "nome": "Technician",
+    "descricao": "increases the power of moves - that are usually base power 60 or below - by 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/fairy-aura",
+    "nome": "Fairy Aura",
+    "descricao": "raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/magician",
+    "nome": "Magician",
+    "descricao": "The Pokémon steals the held item of a Pokémon it hits with a move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/insomnia",
+    "nome": "Insomnia",
+    "descricao": "prevents the ability-bearer from falling asleep, both from moves by other Pokémon like"
+  },
+  {
+    "url": "https://pokemondb.net/ability/moody",
+    "nome": "Moody",
+    "descricao": "Raises one stat and lowers another."
+  },
+  {
+    "url": "https://pokemondb.net/ability/early-bird",
+    "nome": "Early Bird",
+    "descricao": "The Pokémon awakens quickly from sleep."
+  },
+  {
+    "url": "https://pokemondb.net/ability/comatose",
+    "nome": "Comatose",
+    "descricao": "causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/hydration",
+    "nome": "Hydration",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/delta-stream",
+    "nome": "Delta Stream",
+    "descricao": "creates strong winds when the ability is activated (by Rayquaza Mega-Evolving)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/water-veil",
+    "nome": "Water Veil",
+    "descricao": "Prevents the Pokémon from getting a burn."
+  },
+  {
+    "url": "https://pokemondb.net/ability/curious-medicine",
+    "nome": "Curious Medicine",
+    "descricao": "Resets all stat changes upon entering battlefield."
+  },
+  {
+    "url": "https://pokemondb.net/ability/anger-point",
+    "nome": "Anger Point",
+    "descricao": "raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit."
+  },
+  {
+    "url": "https://pokemondb.net/ability/poison-puppeteer",
+    "nome": "Poison Puppeteer",
+    "descricao": "Pokémon poisoned by Pecharunt’s moves will also become confused."
+  },
+  {
+    "url": "https://pokemondb.net/ability/neuroforce",
+    "nome": "Neuroforce",
+    "descricao": "Powers up moves that are super effective."
+  },
+  {
+    "url": "https://pokemondb.net/ability/harvest",
+    "nome": "Harvest",
+    "descricao": "May create another Berry after one is used."
+  },
+  {
+    "url": "https://pokemondb.net/ability/soul-heart",
+    "nome": "Soul-Heart",
+    "descricao": "raises the bearer's Special Attack one stage when any Pokémon on the field faints."
+  },
+  {
+    "url": "https://pokemondb.net/ability/queenly-majesty",
+    "nome": "Queenly Majesty",
+    "descricao": "Prevents use of priority moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/mummy",
+    "nome": "Mummy",
+    "descricao": "Contact with this Pokémon spreads this Ability."
+  },
+  {
+    "url": "https://pokemondb.net/ability/tinted-lens",
+    "nome": "Tinted Lens",
+    "descricao": "Powers up “not very effective” moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/drought",
+    "nome": "Drought",
+    "descricao": "creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
+  },
+  {
+    "url": "https://pokemondb.net/ability/aftermath",
+    "nome": "Aftermath",
+    "descricao": "If an attacker faints a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/snow-warning",
+    "nome": "Snow Warning",
+    "descricao": "creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via"
+  },
+  {
+    "url": "https://pokemondb.net/ability/stall",
+    "nome": "Stall",
+    "descricao": "The Pokémon moves after all other Pokémon do."
+  },
+  {
+    "url": "https://pokemondb.net/ability/frisk",
+    "nome": "Frisk",
+    "descricao": "The Pokémon can check a foe's held item."
+  },
+  {
+    "url": "https://pokemondb.net/ability/embody-aspect",
+    "nome": "Embody Aspect",
+    "descricao": "boosts a particular stat, depending on the form of a Terastallized"
+  },
+  {
+    "url": "https://pokemondb.net/ability/as-one",
+    "nome": "As One",
+    "descricao": "Combines Unnerve and Chilling Neigh/Grim Neigh"
+  },
+  {
+    "url": "https://pokemondb.net/ability/friend-guard",
+    "nome": "Friend Guard",
+    "descricao": "Reduces damage done to allies."
+  },
+  {
+    "url": "https://pokemondb.net/ability/tera-shell",
+    "nome": "Tera Shell",
+    "descricao": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective."
+  },
+  {
+    "url": "https://pokemondb.net/ability/toxic-chain",
+    "nome": "Toxic Chain",
+    "descricao": "may cause bad poisoning when the Pokémon hits an opponent with a move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/illusion",
+    "nome": "Illusion",
+    "descricao": "When a Pokémon with the"
+  },
+  {
+    "url": "https://pokemondb.net/ability/thermal-exchange",
+    "nome": "Thermal Exchange",
+    "descricao": "Raises Attack when hit by a Fire-type move. Cannot be burned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/rattled",
+    "nome": "Rattled",
+    "descricao": "When a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/shed-skin",
+    "nome": "Shed Skin",
+    "descricao": "The Pokémon may heal its own status problems."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sturdy",
+    "nome": "Sturdy",
+    "descricao": "allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves ("
+  },
+  {
+    "url": "https://pokemondb.net/ability/white-smoke",
+    "nome": "White Smoke",
+    "descricao": "Prevents other Pokémon from lowering its stats."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sap-sipper",
+    "nome": "Sap Sipper",
+    "descricao": "Boosts Attack when hit by a Grass-type move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/bad-dreams",
+    "nome": "Bad Dreams",
+    "descricao": "causes all sleeping opponents to lose"
+  },
+  {
+    "url": "https://pokemondb.net/ability/defeatist",
+    "nome": "Defeatist",
+    "descricao": "When the HP of a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/steam-engine",
+    "nome": "Steam Engine",
+    "descricao": "raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage."
+  },
+  {
+    "url": "https://pokemondb.net/ability/dancer",
+    "nome": "Dancer",
+    "descricao": "When another Pokémon on the field uses any"
+  },
+  {
+    "url": "https://pokemondb.net/ability/rough-skin",
+    "nome": "Rough Skin",
+    "descricao": "When a Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/zero-to-hero",
+    "nome": "Zero to Hero",
+    "descricao": "Transforms into its Hero Form when switching out."
+  },
+  {
+    "url": "https://pokemondb.net/ability/chilling-neigh",
+    "nome": "Chilling Neigh",
+    "descricao": "Boosts Attack after knocking out a Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/water-bubble",
+    "nome": "Water Bubble",
+    "descricao": "reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned."
+  },
+  {
+    "url": "https://pokemondb.net/ability/primordial-sea",
+    "nome": "Primordial Sea",
+    "descricao": "creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form)."
+  },
+  {
+    "url": "https://pokemondb.net/ability/magic-guard",
+    "nome": "Magic Guard",
+    "descricao": "protects the Pokémon from indirect damage, including:"
+  },
+  {
+    "url": "https://pokemondb.net/ability/huge-power",
+    "nome": "Huge Power",
+    "descricao": "Raises the Pokémon's Attack stat."
+  },
+  {
+    "url": "https://pokemondb.net/ability/supersweet-syrup",
+    "nome": "Supersweet Syrup",
+    "descricao": "A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/cud-chew",
+    "nome": "Cud Chew",
+    "descricao": "causes the Pokémon to reuse an already consumed Berry at the end of the next turn."
+  },
+  {
+    "url": "https://pokemondb.net/ability/opportunist",
+    "nome": "Opportunist",
+    "descricao": "Copies stat boosts by the opponent."
+  },
+  {
+    "url": "https://pokemondb.net/ability/good-as-gold",
+    "nome": "Good as Gold",
+    "descricao": "Gives immunity to status moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/commander",
+    "nome": "Commander",
+    "descricao": "Goes inside the mouth of an ally Dondozo if one is on the field."
+  },
+  {
+    "url": "https://pokemondb.net/ability/effect-spore",
+    "nome": "Effect Spore",
+    "descricao": "Contact may poison or cause paralysis or sleep."
+  },
+  {
+    "url": "https://pokemondb.net/ability/berserk",
+    "nome": "Berserk",
+    "descricao": "raises the Pokémon's Special Attack by one stage when its HP falls below 50%."
+  },
+  {
+    "url": "https://pokemondb.net/ability/minds-eye",
+    "nome": "Mind's Eye",
+    "descricao": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/beast-boost",
+    "nome": "Beast Boost",
+    "descricao": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sheer-force",
+    "nome": "Sheer Force",
+    "descricao": "increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects."
+  },
+  {
+    "url": "https://pokemondb.net/ability/gorilla-tactics",
+    "nome": "Gorilla Tactics",
+    "descricao": "Boosts the Pokémon's Attack stat but only allows the use of the first selected move."
+  },
+  {
+    "url": "https://pokemondb.net/ability/power-spot",
+    "nome": "Power Spot",
+    "descricao": "Just being next to the Pokémon powers up moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/neutralizing-gas",
+    "nome": "Neutralizing Gas",
+    "descricao": "Neutralizes abilities of all Pokémon in battle."
+  },
+  {
+    "url": "https://pokemondb.net/ability/quick-draw",
+    "nome": "Quick Draw",
+    "descricao": ""
+  },
+  {
+    "url": "https://pokemondb.net/ability/sweet-veil",
+    "nome": "Sweet Veil",
+    "descricao": "prevents this Pokémon and its allies from falling asleep, for example from moves like"
+  },
+  {
+    "url": "https://pokemondb.net/ability/serene-grace",
+    "nome": "Serene Grace",
+    "descricao": "doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items"
+  },
+  {
+    "url": "https://pokemondb.net/ability/toxic-debris",
+    "nome": "Toxic Debris",
+    "descricao": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+  },
+  {
+    "url": "https://pokemondb.net/ability/sniper",
+    "nome": "Sniper",
+    "descricao": "increases the power of critical hits by 1.5×. This means a critical hit will deal"
+  },
+  {
+    "url": "https://pokemondb.net/ability/ice-body",
+    "nome": "Ice Body",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/stench",
+    "nome": "Stench",
+    "descricao": "A Pokémon with"
+  },
+  {
+    "url": "https://pokemondb.net/ability/multitype",
+    "nome": "Multitype",
+    "descricao": "changes the ability-bearer's type if it is holding one of the"
+  },
+  {
+    "url": "https://pokemondb.net/ability/light-metal",
+    "nome": "Light Metal",
+    "descricao": "halves the Pokémon's weight in battle. Decreasing weight affects these moves:"
+  },
+  {
+    "url": "https://pokemondb.net/ability/unburden",
+    "nome": "Unburden",
+    "descricao": "Raises Speed if a held item is used."
   }
 ]
